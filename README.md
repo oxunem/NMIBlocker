@@ -1,4 +1,4 @@
-# NMI Blocker
+# NMIBlocker
 
 This repository contains a **Proof of Concept (POC)** implementation demonstrating how to block Non-Maskable Interrupts (NMI) by patching Windows kernel internals. 
 
